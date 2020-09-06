@@ -1,5 +1,8 @@
-# become_human_nlu
+# Become Human NLU
+
 A little personal project to get fun. No copyright infringment desired. The images belongs to ther ownerships. Game Detroit Become Human. This project try to implemente capabiltys of language undersntanding in the game.
+
+[link](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=555f47e7-bb93-48df-bc3e-fa2aaf1bd535&serviceInstanceID=c851319f-2f12-41f0-822d-b86311301578)
 
 ![Screenshot_2020-09-05 Watson Assistant(1)](https://user-images.githubusercontent.com/12854504/92316842-282c3800-efbf-11ea-8e48-a597f64a4ee8.png)
 
